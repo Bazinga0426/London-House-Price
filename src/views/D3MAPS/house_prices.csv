@@ -1,0 +1,760 @@
+date,name,Average_Price
+1995,Barking and Dagenham,51817
+1995,Barnet,91792
+1995,Bexley,64291
+1995,Brent,73029
+1995,Bromley,81966
+1995,Camden,120366
+1995,City of London,99084
+1995,Croydon,68922
+1995,Ealing,81218
+1995,Enfield,71983
+1995,Greenwich,63389
+1995,Hackney,66023
+1995,Hammersmith and Fulham,123237
+1995,Haringey,80078
+1995,Harrow,83518
+1995,Havering,68280
+1995,Hillingdon,73755
+1995,Hounslow,72940
+1995,Islington,95554
+1995,Kensington and Chelsea,192856
+1995,Kingston upon Thames,82838
+1995,Lambeth,68105
+1995,Lewisham,58881
+1995,Merton,80500
+1995,Newham,54573
+1995,Redbridge,72580
+1995,Richmond upon Thames,109891
+1995,Southwark,64259
+1995,Sutton,70290
+1995,Tower Hamlets,63652
+1995,Waltham Forest,61279
+1995,Wandsworth,88828
+1995,Westminster,133688
+1996,Barking and Dagenham,51717
+1996,Barnet,94000
+1996,Bexley,65489
+1996,Brent,75235
+1996,Bromley,83547
+1996,Camden,133809
+1996,City of London,105650
+1996,Croydon,69713
+1996,Ealing,83389
+1996,Enfield,74061
+1996,Greenwich,65186
+1996,Hackney,69247
+1996,Hammersmith and Fulham,132044
+1996,Haringey,84500
+1996,Harrow,85926
+1996,Havering,69347
+1996,Hillingdon,75752
+1996,Hounslow,73886
+1996,Islington,97069
+1996,Kensington and Chelsea,207156
+1996,Kingston upon Thames,87017
+1996,Lambeth,72443
+1996,Lewisham,59886
+1996,Merton,83998
+1996,Newham,55746
+1996,Redbridge,75358
+1996,Richmond upon Thames,117307
+1996,Southwark,70116
+1996,Sutton,71651
+1996,Tower Hamlets,70094
+1996,Waltham Forest,62176
+1996,Wandsworth,92269
+1996,Westminster,139188
+1997,Barking and Dagenham,55973
+1997,Barnet,106882
+1997,Bexley,70788
+1997,Brent,86748
+1997,Bromley,94224
+1997,Camden,150142
+1997,City of London,117113
+1997,Croydon,77673
+1997,Ealing,97805
+1997,Enfield,83608
+1997,Greenwich,72067
+1997,Hackney,78176
+1997,Hammersmith and Fulham,151722
+1997,Haringey,95429
+1997,Harrow,99482
+1997,Havering,76215
+1997,Hillingdon,85946
+1997,Hounslow,84535
+1997,Islington,115551
+1997,Kensington and Chelsea,246655
+1997,Kingston upon Thames,99856
+1997,Lambeth,85903
+1997,Lewisham,66150
+1997,Merton,95698
+1997,Newham,60970
+1997,Redbridge,83371
+1997,Richmond upon Thames,136655
+1997,Southwark,79725
+1997,Sutton,81093
+1997,Tower Hamlets,85759
+1997,Waltham Forest,68228
+1997,Wandsworth,108107
+1997,Westminster,165447
+1998,Barking and Dagenham,60285
+1998,Barnet,122359
+1998,Bexley,80631
+1998,Brent,100691
+1998,Bromley,108286
+1998,Camden,170688
+1998,City of London,148031
+1998,Croydon,88142
+1998,Ealing,111342
+1998,Enfield,93029
+1998,Greenwich,81532
+1998,Hackney,87869
+1998,Hammersmith and Fulham,175340
+1998,Haringey,107419
+1998,Harrow,114777
+1998,Havering,85601
+1998,Hillingdon,97675
+1998,Hounslow,99745
+1998,Islington,134148
+1998,Kensington and Chelsea,268349
+1998,Kingston upon Thames,116399
+1998,Lambeth,103178
+1998,Lewisham,75538
+1998,Merton,108049
+1998,Newham,67670
+1998,Redbridge,94514
+1998,Richmond upon Thames,162955
+1998,Southwark,91404
+1998,Sutton,92086
+1998,Tower Hamlets,96504
+1998,Waltham Forest,75557
+1998,Wandsworth,125406
+1998,Westminster,190531
+1999,Barking and Dagenham,65320
+1999,Barnet,136004
+1999,Bexley,86777
+1999,Brent,112157
+1999,Bromley,120873
+1999,Camden,191090
+1999,City of London,171299
+1999,Croydon,97172
+1999,Ealing,126277
+1999,Enfield,101986
+1999,Greenwich,90878
+1999,Hackney,105532
+1999,Hammersmith and Fulham,198900
+1999,Haringey,120082
+1999,Harrow,126687
+1999,Havering,92888
+1999,Hillingdon,108925
+1999,Hounslow,112073
+1999,Islington,155589
+1999,Kensington and Chelsea,311455
+1999,Kingston upon Thames,129696
+1999,Lambeth,116615
+1999,Lewisham,84694
+1999,Merton,121900
+1999,Newham,74525
+1999,Redbridge,102940
+1999,Richmond upon Thames,181771
+1999,Southwark,110267
+1999,Sutton,100869
+1999,Tower Hamlets,113034
+1999,Waltham Forest,83821
+1999,Wandsworth,145339
+1999,Westminster,214042
+2000,Barking and Dagenham,77549
+2000,Barnet,167952
+2000,Bexley,103186
+2000,Brent,140962
+2000,Bromley,147826
+2000,Camden,247114
+2000,City of London,218678
+2000,Croydon,118776
+2000,Ealing,153308
+2000,Enfield,121838
+2000,Greenwich,110162
+2000,Hackney,132727
+2000,Hammersmith and Fulham,247265
+2000,Haringey,145996
+2000,Harrow,152493
+2000,Havering,109432
+2000,Hillingdon,131431
+2000,Hounslow,136624
+2000,Islington,192633
+2000,Kensington and Chelsea,376801
+2000,Kingston upon Thames,162805
+2000,Lambeth,148038
+2000,Lewisham,107082
+2000,Merton,151604
+2000,Newham,92886
+2000,Redbridge,124378
+2000,Richmond upon Thames,227865
+2000,Southwark,142266
+2000,Sutton,125951
+2000,Tower Hamlets,141287
+2000,Waltham Forest,103030
+2000,Wandsworth,184275
+2000,Westminster,260491
+2001,Barking and Dagenham,88663
+2001,Barnet,185563
+2001,Bexley,116526
+2001,Brent,157286
+2001,Bromley,162131
+2001,Camden,278593
+2001,City of London,250625
+2001,Croydon,132508
+2001,Ealing,170190
+2001,Enfield,135712
+2001,Greenwich,125819
+2001,Hackney,153405
+2001,Hammersmith and Fulham,271918
+2001,Haringey,165126
+2001,Harrow,170249
+2001,Havering,124070
+2001,Hillingdon,145293
+2001,Hounslow,153622
+2001,Islington,219817
+2001,Kensington and Chelsea,420128
+2001,Kingston upon Thames,178822
+2001,Lambeth,164684
+2001,Lewisham,121332
+2001,Merton,167045
+2001,Newham,108762
+2001,Redbridge,141587
+2001,Richmond upon Thames,241332
+2001,Southwark,164485
+2001,Sutton,137909
+2001,Tower Hamlets,162505
+2001,Waltham Forest,118843
+2001,Wandsworth,205179
+2001,Westminster,296104
+2002,Barking and Dagenham,112221
+2002,Barnet,220745
+2002,Bexley,136797
+2002,Brent,185897
+2002,Bromley,186645
+2002,Camden,314178
+2002,City of London,269631
+2002,Croydon,157022
+2002,Ealing,198426
+2002,Enfield,159790
+2002,Greenwich,147421
+2002,Hackney,180269
+2002,Hammersmith and Fulham,302458
+2002,Haringey,195800
+2002,Harrow,202680
+2002,Havering,149065
+2002,Hillingdon,172146
+2002,Hounslow,175131
+2002,Islington,247760
+2002,Kensington and Chelsea,460382
+2002,Kingston upon Thames,203104
+2002,Lambeth,190450
+2002,Lewisham,143763
+2002,Merton,195714
+2002,Newham,137455
+2002,Redbridge,169367
+2002,Richmond upon Thames,271688
+2002,Southwark,184683
+2002,Sutton,162526
+2002,Tower Hamlets,187288
+2002,Waltham Forest,148136
+2002,Wandsworth,232805
+2002,Westminster,339621
+2003,Barking and Dagenham,142498
+2003,Barnet,251212
+2003,Bexley,164481
+2003,Brent,216501
+2003,Bromley,215992
+2003,Camden,323053
+2003,City of London,270811
+2003,Croydon,185783
+2003,Ealing,221688
+2003,Enfield,190572
+2003,Greenwich,171042
+2003,Hackney,201071
+2003,Hammersmith and Fulham,318805
+2003,Haringey,220319
+2003,Harrow,232597
+2003,Havering,179117
+2003,Hillingdon,202707
+2003,Hounslow,198260
+2003,Islington,262084
+2003,Kensington and Chelsea,460490
+2003,Kingston upon Thames,228279
+2003,Lambeth,203376
+2003,Lewisham,170885
+2003,Merton,220393
+2003,Newham,168436
+2003,Redbridge,203571
+2003,Richmond upon Thames,294167
+2003,Southwark,199583
+2003,Sutton,187815
+2003,Tower Hamlets,207901
+2003,Waltham Forest,175075
+2003,Wandsworth,253342
+2003,Westminster,363465
+2004,Barking and Dagenham,158175
+2004,Barnet,271853
+2004,Bexley,179140
+2004,Brent,236022
+2004,Bromley,234462
+2004,Camden,351847
+2004,City of London,301032
+2004,Croydon,198587
+2004,Ealing,241038
+2004,Enfield,205847
+2004,Greenwich,186892
+2004,Hackney,217676
+2004,Hammersmith and Fulham,343380
+2004,Haringey,236264
+2004,Harrow,252291
+2004,Havering,195991
+2004,Hillingdon,215695
+2004,Hounslow,215826
+2004,Islington,285946
+2004,Kensington and Chelsea,512186
+2004,Kingston upon Thames,246423
+2004,Lambeth,221888
+2004,Lewisham,184058
+2004,Merton,238098
+2004,Newham,185679
+2004,Redbridge,222917
+2004,Richmond upon Thames,316540
+2004,Southwark,216903
+2004,Sutton,201828
+2004,Tower Hamlets,219986
+2004,Waltham Forest,191377
+2004,Wandsworth,271649
+2004,Westminster,379394
+2005,Barking and Dagenham,163360
+2005,Barnet,279459
+2005,Bexley,186511
+2005,Brent,241689
+2005,Bromley,239785
+2005,Camden,368344
+2005,City of London,311783
+2005,Croydon,204406
+2005,Ealing,244871
+2005,Enfield,212548
+2005,Greenwich,196343
+2005,Hackney,227936
+2005,Hammersmith and Fulham,362575
+2005,Haringey,245820
+2005,Harrow,255332
+2005,Havering,204046
+2005,Hillingdon,222899
+2005,Hounslow,222920
+2005,Islington,295081
+2005,Kensington and Chelsea,520205
+2005,Kingston upon Thames,251155
+2005,Lambeth,228852
+2005,Lewisham,190867
+2005,Merton,246252
+2005,Newham,193554
+2005,Redbridge,226468
+2005,Richmond upon Thames,323618
+2005,Southwark,224049
+2005,Sutton,209546
+2005,Tower Hamlets,225628
+2005,Waltham Forest,197239
+2005,Wandsworth,284181
+2005,Westminster,399384
+2006,Barking and Dagenham,167852
+2006,Barnet,291337
+2006,Bexley,191830
+2006,Brent,253252
+2006,Bromley,249691
+2006,Camden,394818
+2006,City of London,338518
+2006,Croydon,212110
+2006,Ealing,260205
+2006,Enfield,219541
+2006,Greenwich,207166
+2006,Hackney,253253
+2006,Hammersmith and Fulham,397585
+2006,Haringey,263920
+2006,Harrow,265447
+2006,Havering,211316
+2006,Hillingdon,231404
+2006,Hounslow,237043
+2006,Islington,319644
+2006,Kensington and Chelsea,598007
+2006,Kingston upon Thames,264666
+2006,Lambeth,250142
+2006,Lewisham,202361
+2006,Merton,257060
+2006,Newham,203284
+2006,Redbridge,239729
+2006,Richmond upon Thames,348496
+2006,Southwark,242759
+2006,Sutton,215723
+2006,Tower Hamlets,243032
+2006,Waltham Forest,209707
+2006,Wandsworth,310943
+2006,Westminster,436864
+2007,Barking and Dagenham,184909
+2007,Barnet,326915
+2007,Bexley,208085
+2007,Brent,286994
+2007,Bromley,277229
+2007,Camden,466485
+2007,City of London,433838
+2007,Croydon,233665
+2007,Ealing,293783
+2007,Enfield,243911
+2007,Greenwich,228861
+2007,Hackney,290396
+2007,Hammersmith and Fulham,474140
+2007,Haringey,305509
+2007,Harrow,293491
+2007,Havering,233534
+2007,Hillingdon,253838
+2007,Hounslow,260227
+2007,Islington,385665
+2007,Kensington and Chelsea,746678
+2007,Kingston upon Thames,306228
+2007,Lambeth,298234
+2007,Lewisham,229654
+2007,Merton,297857
+2007,Newham,226388
+2007,Redbridge,266937
+2007,Richmond upon Thames,410381
+2007,Southwark,289667
+2007,Sutton,241437
+2007,Tower Hamlets,287172
+2007,Waltham Forest,237016
+2007,Wandsworth,372077
+2007,Westminster,514426
+2008,Barking and Dagenham,187356
+2008,Barnet,330022
+2008,Bexley,210198
+2008,Brent,292757
+2008,Bromley,277727
+2008,Camden,501222
+2008,City of London,427296
+2008,Croydon,235998
+2008,Ealing,295324
+2008,Enfield,245838
+2008,Greenwich,231135
+2008,Hackney,311770
+2008,Hammersmith and Fulham,474947
+2008,Haringey,303395
+2008,Harrow,294649
+2008,Havering,231473
+2008,Hillingdon,255579
+2008,Hounslow,262945
+2008,Islington,386791
+2008,Kensington and Chelsea,784834
+2008,Kingston upon Thames,310395
+2008,Lambeth,295475
+2008,Lewisham,231283
+2008,Merton,300674
+2008,Newham,221767
+2008,Redbridge,264428
+2008,Richmond upon Thames,409388
+2008,Southwark,291212
+2008,Sutton,242701
+2008,Tower Hamlets,298001
+2008,Waltham Forest,232886
+2008,Wandsworth,363817
+2008,Westminster,540196
+2009,Barking and Dagenham,156446
+2009,Barnet,299102
+2009,Bexley,189050
+2009,Brent,264401
+2009,Bromley,249908
+2009,Camden,454627
+2009,City of London,383417
+2009,Croydon,203705
+2009,Ealing,264041
+2009,Enfield,221992
+2009,Greenwich,210322
+2009,Hackney,282240
+2009,Hammersmith and Fulham,435455
+2009,Haringey,276213
+2009,Harrow,263035
+2009,Havering,205961
+2009,Hillingdon,228275
+2009,Hounslow,236242
+2009,Islington,345284
+2009,Kensington and Chelsea,705187
+2009,Kingston upon Thames,266773
+2009,Lambeth,267336
+2009,Lewisham,211307
+2009,Merton,271597
+2009,Newham,188216
+2009,Redbridge,232763
+2009,Richmond upon Thames,369389
+2009,Southwark,261150
+2009,Sutton,212117
+2009,Tower Hamlets,258247
+2009,Waltham Forest,204934
+2009,Wandsworth,340372
+2009,Westminster,532096
+2010,Barking and Dagenham,166560
+2010,Barnet,333127
+2010,Bexley,200873
+2010,Brent,289562
+2010,Bromley,271048
+2010,Camden,513220
+2010,City of London,453662
+2010,Croydon,218639
+2010,Ealing,292825
+2010,Enfield,242126
+2010,Greenwich,229069
+2010,Hackney,300490
+2010,Hammersmith and Fulham,502256
+2010,Haringey,314479
+2010,Harrow,292165
+2010,Havering,220412
+2010,Hillingdon,247991
+2010,Hounslow,257448
+2010,Islington,398054
+2010,Kensington and Chelsea,837314
+2010,Kingston upon Thames,304309
+2010,Lambeth,297167
+2010,Lewisham,225581
+2010,Merton,299998
+2010,Newham,204466
+2010,Redbridge,252333
+2010,Richmond upon Thames,420083
+2010,Southwark,293912
+2010,Sutton,233488
+2010,Tower Hamlets,282748
+2010,Waltham Forest,222101
+2010,Wandsworth,374487
+2010,Westminster,606697
+2011,Barking and Dagenham,163464
+2011,Barnet,338977
+2011,Bexley,200671
+2011,Brent,298964
+2011,Bromley,274874
+2011,Camden,554392
+2011,City of London,463930
+2011,Croydon,215427
+2011,Ealing,302306
+2011,Enfield,241990
+2011,Greenwich,229294
+2011,Hackney,308697
+2011,Hammersmith and Fulham,518573
+2011,Haringey,326467
+2011,Harrow,296477
+2011,Havering,219558
+2011,Hillingdon,251781
+2011,Hounslow,264604
+2011,Islington,424103
+2011,Kensington and Chelsea,908564
+2011,Kingston upon Thames,312073
+2011,Lambeth,304029
+2011,Lewisham,228016
+2011,Merton,306062
+2011,Newham,207663
+2011,Redbridge,261965
+2011,Richmond upon Thames,434536
+2011,Southwark,312538
+2011,Sutton,233026
+2011,Tower Hamlets,287261
+2011,Waltham Forest,220905
+2011,Wandsworth,386199
+2011,Westminster,632513
+2012,Barking and Dagenham,165863
+2012,Barnet,358626
+2012,Bexley,202546
+2012,Brent,314112
+2012,Bromley,282024
+2012,Camden,586165
+2012,City of London,525327
+2012,Croydon,221816
+2012,Ealing,318697
+2012,Enfield,247666
+2012,Greenwich,236980
+2012,Hackney,325491
+2012,Hammersmith and Fulham,567081
+2012,Haringey,339685
+2012,Harrow,304904
+2012,Havering,221601
+2012,Hillingdon,260475
+2012,Hounslow,267957
+2012,Islington,442089
+2012,Kensington and Chelsea,1009044
+2012,Kingston upon Thames,324577
+2012,Lambeth,327465
+2012,Lewisham,240571
+2012,Merton,316742
+2012,Newham,212824
+2012,Redbridge,265911
+2012,Richmond upon Thames,454941
+2012,Southwark,331123
+2012,Sutton,238841
+2012,Tower Hamlets,285452
+2012,Waltham Forest,230725
+2012,Wandsworth,409391
+2012,Westminster,696925
+2013,Barking and Dagenham,173733
+2013,Barnet,374770
+2013,Bexley,213469
+2013,Brent,339655
+2013,Bromley,296668
+2013,Camden,667447
+2013,City of London,570008
+2013,Croydon,234439
+2013,Ealing,338088
+2013,Enfield,261603
+2013,Greenwich,253398
+2013,Hackney,372668
+2013,Hammersmith and Fulham,631528
+2013,Haringey,372233
+2013,Harrow,319397
+2013,Havering,226428
+2013,Hillingdon,270594
+2013,Hounslow,290576
+2013,Islington,495765
+2013,Kensington and Chelsea,1126572
+2013,Kingston upon Thames,345738
+2013,Lambeth,362965
+2013,Lewisham,260814
+2013,Merton,344544
+2013,Newham,222783
+2013,Redbridge,274824
+2013,Richmond upon Thames,492115
+2013,Southwark,360749
+2013,Sutton,252002
+2013,Tower Hamlets,309050
+2013,Waltham Forest,254264
+2013,Wandsworth,457403
+2013,Westminster,789972
+2014,Barking and Dagenham,201171
+2014,Barnet,430362
+2014,Bexley,244458
+2014,Brent,394687
+2014,Bromley,347856
+2014,Camden,756485
+2014,City of London,709385
+2014,Croydon,274826
+2014,Ealing,400038
+2014,Enfield,294515
+2014,Greenwich,298350
+2014,Hackney,456387
+2014,Hammersmith and Fulham,721099
+2014,Haringey,435807
+2014,Harrow,360795
+2014,Havering,259266
+2014,Hillingdon,305781
+2014,Hounslow,324525
+2014,Islington,585170
+2014,Kensington and Chelsea,1288405
+2014,Kingston upon Thames,406105
+2014,Lambeth,433624
+2014,Lewisham,315812
+2014,Merton,419976
+2014,Newham,258311
+2014,Redbridge,304162
+2014,Richmond upon Thames,577054
+2014,Southwark,427766
+2014,Sutton,291131
+2014,Tower Hamlets,382241
+2014,Waltham Forest,314934
+2014,Wandsworth,544514
+2014,Westminster,922701
+2015,Barking and Dagenham,233459
+2015,Barnet,478687
+2015,Bexley,274208
+2015,Brent,440951
+2015,Bromley,385681
+2015,Camden,787440
+2015,City of London,760252
+2015,Croydon,307063
+2015,Ealing,438310
+2015,Enfield,335502
+2015,Greenwich,331848
+2015,Hackney,506798
+2015,Hammersmith and Fulham,760833
+2015,Haringey,480635
+2015,Harrow,408603
+2015,Havering,291844
+2015,Hillingdon,352747
+2015,Hounslow,351437
+2015,Islington,643147
+2015,Kensington and Chelsea,1302102
+2015,Kingston upon Thames,438001
+2015,Lambeth,471613
+2015,Lewisham,355049
+2015,Merton,457701
+2015,Newham,297557
+2015,Redbridge,343794
+2015,Richmond upon Thames,618777
+2015,Southwark,467866
+2015,Sutton,322931
+2015,Tower Hamlets,421943
+2015,Waltham Forest,357512
+2015,Wandsworth,572690
+2015,Westminster,964642
+2016,Barking and Dagenham,274583
+2016,Barnet,524172
+2016,Bexley,322124
+2016,Brent,491859
+2016,Bromley,429793
+2016,Camden,824012
+2016,City of London,797144
+2016,Croydon,356117
+2016,Ealing,480371
+2016,Enfield,385681
+2016,Greenwich,370949
+2016,Hackney,544632
+2016,Hammersmith and Fulham,758912
+2016,Haringey,539372
+2016,Harrow,455365
+2016,Havering,342268
+2016,Hillingdon,402270
+2016,Hounslow,387937
+2016,Islington,656308
+2016,Kensington and Chelsea,1283099
+2016,Kingston upon Thames,483029
+2016,Lambeth,519067
+2016,Lewisham,407485
+2016,Merton,502569
+2016,Newham,351199
+2016,Redbridge,396518
+2016,Richmond upon Thames,658391
+2016,Southwark,516320
+2016,Sutton,366430
+2016,Tower Hamlets,465839
+2016,Waltham Forest,418903
+2016,Wandsworth,608583
+2016,Westminster,990580
+2017,Barking and Dagenham,280508
+2017,Barnet,536145
+2017,Bexley,331819
+2017,Brent,470430
+2017,Bromley,438420
+2017,Camden,840469
+2017,City of London,752216
+2017,Croydon,362633
+2017,Ealing,483712
+2017,Enfield,394247
+2017,Greenwich,373799
+2017,Hackney,569377
+2017,Hammersmith and Fulham,765676
+2017,Haringey,558923
+2017,Harrow,471017
+2017,Havering,358008
+2017,Hillingdon,414388
+2017,Hounslow,398506
+2017,Islington,634181
+2017,Kensington and Chelsea,1393817
+2017,Kingston upon Thames,494045
+2017,Lambeth,512896
+2017,Lewisham,414034
+2017,Merton,493068
+2017,Newham,348334
+2017,Redbridge,409837
+2017,Richmond upon Thames,663001
+2017,Southwark,508500
+2017,Sutton,363509
+2017,Tower Hamlets,454042
+2017,Waltham Forest,432340
+2017,Wandsworth,612244
+2017,Westminster,1063907

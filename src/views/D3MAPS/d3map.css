@@ -1,0 +1,139 @@
+.d3chart {
+  margin: 0px;
+  padding: 0px;
+
+  height: 90vh;
+  width: 100vw;
+
+  background-color: #eeeeee;
+
+  position: relative;
+
+  font-family: "Open Sans", sans-serif;
+}
+
+#vis {
+  margin: 0px;
+  padding: 0px;
+
+  height: 50vh;
+  width: 100%;
+
+  background-color: #eeeeee;
+
+  position: relative;
+
+  font-family: "Open Sans", sans-serif;
+
+  margin: 0 auto;
+}
+
+#leg {
+  margin: 0px;
+  padding: 0px;
+
+  width: 90%;
+  height: 20%;
+  position: relative;
+
+  /*margin: 0 auto;*/
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.area {
+  stroke: #000;
+  stroke-width: 0.1px;
+  cursor: pointer;
+}
+
+#info {
+  padding: 10px;
+  position: absolute;
+  visibility: hidden;
+  z-index: 10;
+}
+
+#info.active {
+  visibility: visible;
+  background-color: #eee;
+  opacity: 0.9;
+}
+
+/* Legend Font Style */
+/*body {
+    font: 11px sans-serif;
+    background-color: #ffffff;
+}*/
+
+/* Legend Position Style */
+.legend {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  /*height: 20%;*/
+}
+
+.axis text {
+  font: 8px sans-serif;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+#slider {
+  width: 90%;
+  margin: 0 auto;
+}
+
+/*label {
+  padding-left: 0px;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+}*/
+@media all and (min-width: 600px) {
+  #leg {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+@media all and (min-width: 1000px) {
+  #vis {
+    height: 70%;
+  }
+
+  #leg {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+  .axis text {
+    font: 12px sans-serif;
+  }
+
+  h1 {
+    font-size: 25px;
+  }
+
+  #slider {
+    margin-left: 30px;
+  }
+
+  /*label {
+    padding-left: 20px;
+  }*/
+
+  /*label {
+    padding: 50px;
+  }*/
+}
